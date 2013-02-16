@@ -1,3 +1,5 @@
+If ever there were a work in progress...
+
 raw2jpg
 =======
 
