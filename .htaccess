@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^$ /test/manual/index.php [L]
+RewriteRule ^$ /test/manual/ [L]
